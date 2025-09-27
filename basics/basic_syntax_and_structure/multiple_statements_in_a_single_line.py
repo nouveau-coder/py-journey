@@ -1,0 +1,2 @@
+print('an intro to python'); print('multiple statements in a single line'); print('separated by semicolons'); print('this is not common practice'); print('but it is possible')
+#although it is allowed, it is not recommended to put multiple statements on a single line as it reduces the readability of your code.

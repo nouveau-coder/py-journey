@@ -6,4 +6,5 @@ print(a)  #this line of code will print the value of the variable 'a' to the con
 b = 5
 print(b) #this line of code will print the value of the variable 'b' to the console.
 a = b 
-print(a)
+print(a) #this line of code will print the value of the variable 'a' to the console. since we assigned the value of 'b' to 'a', it will print 5.
+# we can see that we do not need to declare the variable type. python is a dynamically typed language, meaning that the type of a variable is determined at runtime.
